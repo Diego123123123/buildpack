@@ -28,6 +28,3 @@ include_files:
 - bin/release
 - bin/supply
 - manifest.yml
-dependency_deprecation_dates:
-  date: 2021-05-01
-  link: https://nginx.org/
