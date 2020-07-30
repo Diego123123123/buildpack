@@ -2,10 +2,10 @@
 language: staticfile
 default_versions:
 - name: nginx
-  version: 1.17.x
+  version: 1.19.x
 dependencies:
 - name: nginx
-  version: 1.17.10
+  version: 1.19.x
   uri: https://buildpacks.cloudfoundry.org/dependencies/nginx-static/nginx-static_1.17.10_linux_x64_cflinuxfs3_f2c99636.tgz
   sha256: f2c99636a2ee3eb51d2fb1111fa4be07e6054af23f331618961c9e9c20b79881
   cf_stacks:
